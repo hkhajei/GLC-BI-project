@@ -7,3 +7,7 @@ Additionally, the software features dashboards and visual charts that offer mana
 One of the notable benefits of the GLC BI Project is its ability to drastically reduce the time required for calculations. For instance, what previously took days to compute for nearly 90 technicians can now be accomplished in just half an hour. Furthermore, the software provides an online platform accessible from any location, enabling users to issue bills of lading from multiple points seamlessly.
 
 Moreover, the application empowers branch managers to generate and distribute payrolls for their workforce, fostering transparency and accountability across the organization.
+
+# Training Resources and Development Credits
+
+I've included the training materials I've meticulously prepared for users to efficiently calculate technicians' wages. It's worth highlighting that I've personally spearheaded all aspects of the development process, from initial exploration and analytics to programming and final publication.
